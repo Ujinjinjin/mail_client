@@ -1,0 +1,8 @@
+
+py_client/\.idea/
+
+py_client/text\.txt
+
+py_client/emails\.txt
+
+py_client/libraries/__pycache__/
