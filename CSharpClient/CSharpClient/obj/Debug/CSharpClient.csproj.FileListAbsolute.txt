@@ -1,0 +1,10 @@
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\bin\Debug\CSharpClient.exe.config
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\bin\Debug\CSharpClient.exe
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\bin\Debug\CSharpClient.pdb
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csprojResolveAssemblyReference.cache
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\obj\Debug\CSharpClient.Properties.Resources.resources
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.GenerateResource.Cache
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\obj\Debug\CSharpClient.csproj.CoreCompileInputs.cache
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\obj\Debug\CSharpClient.exe
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\obj\Debug\CSharpClient.pdb
+C:\Users\gallk\Documents\Work\Projects\Desktop\mail_client\CSharpClient\CSharpClient\obj\Debug\CSharpClient.FormMailer.resources
